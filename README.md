@@ -37,13 +37,6 @@ If you wish to contribute to the project, please follow these guidelines:
 
 Thank you for contributing to the Retrieval Augmented Generation (RAG) project!
 
-## Authors   
-- Anirudh Nuti - *Initial Work* - [NVK Anirudh](https://github.com/NvkAnirudh)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/NvkAnirudh/RAG_Application_Using_LLMs/blob/main/LICENSE) file for details
-
-## Acknowledgements
-This project serves as a practical exercise from the [course](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 
 
